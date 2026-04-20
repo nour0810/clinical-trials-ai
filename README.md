@@ -12,6 +12,30 @@ Triadar is an intelligent clinical trial search and analysis platform that combi
 
 ---
 
+## 📸 Demo
+
+<p align="center">
+  <img src="demo-search.png" width="600" alt="Smart Search">
+  <br><em>Smart Search</em>
+</p>
+
+<p align="center">
+  <img src="demo-dashboard.png" width="600" alt="Disease Dashboard">
+  <br><em>Disease Dashboard</em>
+</p>
+
+<p align="center">
+  <img src="demo-map.png" width="600" alt="Global Map">
+  <br><em>Interactive Map</em>
+</p>
+
+<p align="center">
+  <img src="demo-ai.png" width="600" alt="AI Analysis">
+  <br><em>AI-Powered Analysis</em>
+</p>
+
+---
+
 ## ✨ Features
 
 ### 🔍 Smart Search
